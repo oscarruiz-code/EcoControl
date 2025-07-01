@@ -17,10 +17,6 @@ EcoControl es una plataforma multiplataforma para monitorizar y optimizar el con
 - Recomendaciones básicas para ahorro energético
 - Sistema de logros y notificaciones push para motivar el uso
 
-## Cómo contribuir
-
-¡Las contribuciones son bienvenidas! Por favor, revisa las issues abiertas y envía pull requests.
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
